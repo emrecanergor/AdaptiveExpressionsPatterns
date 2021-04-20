@@ -1,0 +1,2 @@
+Getting Date without Time Info with Dynamic User(Browser-Emulator etc.) Locale
+split( formatDateTime(user.SelectedDate,'', turn.activity.locale), ' ')[0]
